@@ -53,8 +53,6 @@ void setup()
     }
   }
 
-  //client.publish("tilghman/esp/shed/lux", "Hello from ESP8266");
-  //client.subscribe("esp/test");
 
   LightSensor.begin();
 }
